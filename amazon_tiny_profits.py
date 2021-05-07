@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np 
 import datetime as dt 
 
-filename = '/Users/jiali/Documents/Python_CodingDojo/amazon_profit/MM25.xlsx'
+filename = '/Users/jiali/Documents/Python_CodingDojo/Amazon-tiny-profits/MM25.xlsx'
 df = pd.read_excel(filename)
 
 #convert object to int
